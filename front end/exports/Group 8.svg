@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="172" viewBox="0 0 600 172">
+  <defs>
+    <filter id="Rectangle_2" x="0" y="0" width="600" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feFlood flood-color="#020202" flood-opacity="0.651"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8" data-name="Group 8" transform="translate(-166.5 -733.5)">
+    <g transform="matrix(1, 0, 0, 1, 166.5, 733.5)" filter="url(#Rectangle_2)">
+      <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(10.5 7.5)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="579" height="151" rx="75.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="578" height="150" rx="75" fill="none"/>
+      </g>
+    </g>
+    <text id="Sign_in_with_Google" data-name="Sign in with Google" transform="translate(522.5 831.5)" fill="#095a77" stroke="#707070" stroke-width="0.2" font-size="41" font-family="FlamanteCairo, Flamante Cairo"><tspan x="-201.925" y="0">Sign in with Google</tspan></text>
+    <g id="ui" transform="translate(218 776)">
+      <path id="Path_16" data-name="Path 16" d="M87.44,315.939a33.622,33.622,0,0,1-51.04-8.646l2.208-10.176,9.785-1.817a18.056,18.056,0,0,0,17.173,12.71,17.673,17.673,0,0,0,10.519-3.426l9.4,1.434Z" transform="translate(-31.566 -256.08)" fill="#59c36a"/>
+      <path id="Path_17" data-name="Path 17" d="M277.874,376.556l-1.952-9.921-9.4-1.434A17.674,17.674,0,0,1,256,368.627V384.7A33.948,33.948,0,0,0,277.874,376.556Z" transform="translate(-222 -316.697)" fill="#00a66c"/>
+      <g id="Connected_Home_1_" transform="translate(0 16.787)">
+        <g id="Group_7" data-name="Group 7">
+          <g id="Group_6" data-name="Group 6">
+            <g id="Group_5" data-name="Group 5">
+              <path id="Path_18" data-name="Path 18" d="M16.07,143.613a18.568,18.568,0,0,0,.757,5.219L4.834,160.825a33.059,33.059,0,0,1,0-34.425l9.625,1.657,2.368,10.336A18.565,18.565,0,0,0,16.07,143.613Z" transform="translate(0 -126.4)" fill="#ffda2d"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="Path_19" data-name="Path 19" d="M276.992,203.969a33.946,33.946,0,0,1-12.126,25.859l-11.356-11.356a17.629,17.629,0,0,0,5.538-6.534H242.992A1.973,1.973,0,0,1,241,209.945V197.992A1.973,1.973,0,0,1,242.992,196h31.45a1.969,1.969,0,0,1,1.952,1.633,33.785,33.785,0,0,1,.6,6.335Z" transform="translate(-208.992 -169.969)" fill="#4086f4"/>
+      <path id="Path_20" data-name="Path 20" d="M272.057,211.938a17.63,17.63,0,0,1-5.538,6.534l11.355,11.356A33.675,33.675,0,0,0,289.4,197.633,1.969,1.969,0,0,0,287.45,196H256v15.938Z" transform="translate(-222 -169.969)" fill="#4175df"/>
+      <path id="Path_21" data-name="Path 21" d="M88,9.5a2.01,2.01,0,0,1-.558,1.474l-8.527,8.487a1.951,1.951,0,0,1-2.59.2A17.822,17.822,0,0,0,65.566,16.07,18.056,18.056,0,0,0,48.393,28.78L36.4,16.788A33.6,33.6,0,0,1,87.281,8.022,2.1,2.1,0,0,1,88,9.5Z" transform="translate(-31.566)" fill="#ff641a"/>
+      <path id="Path_22" data-name="Path 22" d="M266.758,19.656a1.951,1.951,0,0,0,2.59-.2l8.527-8.487a2.009,2.009,0,0,0,.558-1.474,2.1,2.1,0,0,0-.717-1.474A33.9,33.9,0,0,0,256,0V16.07A17.822,17.822,0,0,1,266.758,19.656Z" transform="translate(-222 0)" fill="#f03800"/>
+    </g>
+  </g>
+</svg>

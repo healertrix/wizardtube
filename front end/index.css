@@ -1,0 +1,122 @@
+#blob{
+  position: relative;
+   left:-68px;
+   top:-12px;
+   height: 85px;
+}
+#logo{
+   position: relative;
+   left:200px;
+   top: -60px;
+   width: 256px;
+   height: 208.33px;
+
+}
+#header{
+   font-family: Flamante Cairo;
+   font-size:45px ;
+   font-weight: 460;
+   position: relative;
+   top: -30px;
+   left: 64.5px;
+   color: #A60650;
+
+}
+#header_bro{
+   color: #661818;
+   padding: 2.7px;
+}
+#content{
+   font-family: Flamante Cairo;
+   font-size:32px;
+   width: 710px;
+   margin-left: 15px ;
+   margin-top: 10px;
+}
+#google_button{
+   width: 420px;
+   height: 180px;
+   position: relative;
+   top: -30px;
+   left: 100px;
+}
+#footer_links{
+   font-family: Flamante Cairo;
+position: relative;
+top: 150px;
+margin-left: 15px;
+font-size: 20px;
+}
+#the_links{
+   color:#3B76DB ;
+}
+.slideshow{
+   position: relative;
+   overflow: hidden;
+}
+.images{
+   background:url(./exports/Component\ 1\ –\ 1.svg);
+   position: absolute;
+   left: 0;
+   top: 0;
+   height: 100%;
+   width:300%;
+   animation:slideshow 10s linear infinite;
+}
+@keyframes slideshow{
+   0% {left: 0;}
+   100% {left: -200%;}
+}
+#image-container{
+   background:url(./exports/Component\ 1\ –\ 1.svg) 0 0/50% auto repeat-y;
+   height: 900px;
+   width: 100%;
+   position: absolute;
+       transform: rotate(11deg) translateX(697px) translateY(-720px);
+   animation: mover 350s linear 0s infinite normal forwards;
+   overflow: hidden;
+
+   }
+   
+   @keyframes mover{
+      0% {
+         background-position: 0 0;
+         /* background-position-x: 0px;
+         background-position-y: 0px; */
+     }
+     100% {
+         background-position: 0 -30000px;
+         /* background-position-x: 0px;
+         background-position-y: -30000px; */
+     }
+   }
+   body{
+      overflow: hidden;
+   }
+button{
+    /* Rectangle 2 */
+
+    position: absolute;
+    width: 381px;
+    height: 92px;
+    left: 130px;
+    top: 571px;
+
+    background: #FDE9E9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.39);
+    border-radius: 71px;
+
+   color:#5A2E2E;
+    font-family:Flamante Cairo;
+    font-size:20px;
+    border:none;
+}
+button:focus{
+   color:black;
+   outline:none;
+   background:#F5C7C7;
+   box-shadow: 0.1px 4px 4px rgba(0, 0, 0, 0.49);
+   border-radius: 71px;
+   border:solid 0.1px;
+   cursor: pointer;
+};

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="357" height="208.331" viewBox="0 0 357 208.331">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.474" y1="0.42" x2="0.122" y2="0.925" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bf2c40"/>
+      <stop offset="1" stop-color="#601620"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.093" y2="1.039" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#da2441" stop-opacity="0.302"/>
+      <stop offset="1" stop-color="#6d1221" stop-opacity="0.302"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="1.09" y2="-2.622" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b84b4f"/>
+      <stop offset="1" stop-color="#5c2628"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-274 -39.669)">
+    <g id="Group_2" data-name="Group 2" transform="translate(244 34.17)">
+      <text id="WIZARDTUBE_" data-name="WIZARDTUBE
+" transform="translate(54 175.83)" fill="#761010" font-size="95" font-family="AmazDooMRight" letter-spacing="0.032em"><tspan x="0" y="0">WIZARDTUBE</tspan><tspan x="0" y="13"></tspan></text>
+    </g>
+    <g id="cute" transform="translate(274 39.669)">
+      <path id="Path_1" data-name="Path 1" d="M15.423,65.148a41.1,41.1,0,0,0-1.761,13.573,4.281,4.281,0,0,0,7.376,2.7C26.686,75.531,36.1,68.44,46.964,71.181c-.718-.705-7.177-18.105-7.177-18.105S22.4,49.945,15.423,65.148Zm0,0" transform="translate(-11.087 -43.21)" fill="#790515"/>
+      <path id="Path_2" data-name="Path 2" d="M52.278,71.182c-.718-.705-7.177-18.105-7.177-18.105S27.716,49.945,20.737,65.149c0,0-.254.736-.57,2.019,4.491.394,9.626,2.545,10.805,10.008,5.57-4.454,13.014-8.085,21.305-5.994Zm0,0" transform="translate(-16.401 -43.21)" fill="#761010"/>
+      <path id="Path_3" data-name="Path 3" d="M24.818,74.533S45.651,63.02,43.694,42.249s-9.347-37.12-20.474-19.81c0,0,6.318-25.393,40.146-21.541,35.658,4.06,39,69.237,39,69.237Zm0,0" transform="translate(-18.883 -0.5)" fill="url(#linear-gradient)"/>
+      <path id="Path_4" data-name="Path 4" d="M49.953,196.406c.284,1.875.52,3.816.707,5.8,1.957,20.772-18.875,32.285-18.875,32.285L57.66,233.02a47.86,47.86,0,0,0-7.707-36.615Zm0,0" transform="translate(-25.85 -160.454)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_5" data-name="Path 5" d="M31.781,278.878l77.543-4.4a150.684,150.684,0,0,0-3.573-23.707c-8.546,1.861-19.186,4.272-28.975,6.754-13.2,3.348-22.374,1.94-27.345.446-4.347,13.552-17.649,20.9-17.649,20.9Zm0,0" transform="translate(-25.846 -204.845)" fill="#a91331"/>
+      <path id="Path_6" data-name="Path 6" d="M57.715,291.489a38.93,38.93,0,0,1-8.285-1.477c-4.347,13.552-17.649,20.9-17.649,20.9l25.876-1.467a49.143,49.143,0,0,0,.058-17.96Zm0,0" transform="translate(-25.846 -236.883)" fill="#22021c"/>
+      <path id="Path_8" data-name="Path 8" d="M1.74,337.1a6.831,6.831,0,0,1,6.573-2.024,102.221,102.221,0,0,0,37.307,1.566,141.777,141.777,0,0,0,32.174-9.5c7.429-3.112,16.59,1.973,17.649,8.991s-3.129,13.887-10.321,15.147C77.045,352.7,64.489,354,45.62,354c-22.512,0-35.008-3.364-41.726-6.435A6.583,6.583,0,0,1,1.74,337.1Zm0,0" transform="translate(0 -266.441)" fill="rgba(225,60,71,0.97)"/>
+      <path id="Path_13" data-name="Path 13" d="M24.9,385.147c.081-6.206,5.807-8.429,6.9-8.8A105.062,105.062,0,0,1,8.31,373.735a6.828,6.828,0,0,0-6.573,2.025,6.583,6.583,0,0,0,2.153,10.463c5.124,2.343,13.612,4.855,27.341,5.916-1.083-.105-6.412-.931-6.333-6.991Zm0,0" transform="translate(0.002 -305.097)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_9" data-name="Path 9" d="M220.538,396.986c-1.487-1.479-4.448-1.827-7.228-.032-4.977,3.214-11.568,3.673-11.568,3.673q1.232.048,2.611.049a76.67,76.67,0,0,0,12.978-.892A4.105,4.105,0,0,0,220.538,396.986Zm0,0" transform="translate(-125.17 -313.116)" fill="rgba(96,4,7,0.55)" opacity="0.99"/>
+    </g>
+  </g>
+</svg>
